@@ -23,7 +23,7 @@
 
 
 - ### I’m currently learning 
-![Reactnative](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=reactnative)
+![Reactnative](https://img.shields.io/badge/-Reactnative-%23282C34?style=flat-square&logo=react)
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
