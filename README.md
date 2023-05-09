@@ -23,7 +23,7 @@
 
 
 - ### I’m currently learning 
-![Reactnative](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Reactnative](https://img.shields.io/badge/-Reactnative-%23282C34?style=flat-square&logo=reactnative)
 
 
 
