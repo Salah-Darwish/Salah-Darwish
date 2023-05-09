@@ -22,7 +22,7 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Mysql](http://img.shields.io/badge/-MySQL-%23E44D27??style=flat-square&logo=MySQL&logoColor=ffffff)
 ![php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
-![react native](https://img.shields.io/badge/-react native-%23F05032?style=flat-square&logo=react native&logoColor=%23ffffff)
+![reactnative](https://img.shields.io/badge/-reactnative-%23F05032?style=flat-square&logo=reactnative&logoColor=%23ffffff)
 
 - ### I’m currently learning 
 ![laravel](https://img.shields.io/badge/-laravel-%23F05032?style=flat-square&logo=laravel&logoColor=%23ffffff)
