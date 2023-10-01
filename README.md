@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/salah-darwish/](https://www.linkedin.com/in/salah-darwish/)
 
-- 📫 How to reach me **salahdarwish@gmail.com**
+- 📫 How to reach me **salahdarwish52@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
