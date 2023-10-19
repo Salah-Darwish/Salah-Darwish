@@ -13,6 +13,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Salah-Darwish](https://github.com/Salah-Darwish)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/salah-darwish/](https://www.linkedin.com/in/salah-darwish/)
+- Ask me about **C#,,js,react native,OOP,Solid_Principles,Sql_Server,LiNQ,EntityFrameWork,MVC,WebApi**
 
 - 📫 How to reach me **salahdarwish52@gmail.com**
 
