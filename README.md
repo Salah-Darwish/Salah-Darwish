@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying on **FCI TU**
 
-- 🌱 I’m currently learning **Backend Development ( .NET  )**
+- 🌱 I’m currently Working on **Talabat Api**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Salah-Darwish](https://github.com/Salah-Darwish)
 
