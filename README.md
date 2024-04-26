@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying on **FCI TU**
 
-- 🌱 I’m currently Working on **Talabat Api**
+- 🌱 I’m currently Working on **Skan Skin App**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Salah-Darwish](https://github.com/Salah-Darwish)
 
