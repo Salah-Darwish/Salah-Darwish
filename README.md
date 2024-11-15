@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Salah-Darwish" alt="Salah-Darwish" /></a> </p>
 
 
-- 🔭 I’m currently studying on **FCI TU**
+- 🔭 I’m currently graduated from **FCI TU**
 
-- 🌱 I’m currently Working on **Skan Skin App**
+- 🌱 I’m currently Working on **E_Learning App**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Salah-Darwish](https://github.com/Salah-Darwish)
 
